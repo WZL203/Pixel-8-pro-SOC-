@@ -1,12 +1,11 @@
-🚫请不要在此页面使用翻译插件否则导致文字混乱
-# ☆🌈❤️这是关于Pixel 8 Pro📱
+🚫请不要在此页面使用翻译插件否则文字混乱
+# 🌈❤️这是关于Pixel 8 Pro📱
 ## SOC节流与充电优化的项目
-# 指在用Kernelsu模块方式修改
-# thermal_info_config.json
-
+## 指在用Kernelsu模块方式修改
+## thermal_info_config.json
 #### 文件中的代码
 
-#### SOC节流调整：(H1)
+#### SOC节流调整：
 
 #### VIRTUAL-SKIN-SOC: 从37°C推迟到52°C。
 
