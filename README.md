@@ -5,7 +5,8 @@
 ## thermal_info_config.json
 #### 文件中的代码
 
-#### SOC节流调整：
+
+# SOC节流调整：
 
 #### VIRTUAL-SKIN-SOC: 从37°C推迟到52°C。
 
